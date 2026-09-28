@@ -11,7 +11,7 @@
   <a href="mailto:dhanumithra6002@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://thought-type.vercel.app/">
+  <a href="https://dhanumithra.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
