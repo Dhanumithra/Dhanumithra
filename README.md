@@ -66,12 +66,12 @@ I am a detail-obsessed **Software Developer, Quality Engineer (SQE), and Data An
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhanumithra&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanumithra&theme=tokyonight&hide_border=true&background=0D1117&v=2" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dhanumithra&show_icons=true&theme=tokyonight&hide_border=true&v=3" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhanumithra&theme=tokyonight&hide_border=true&background=0D1117&v=3" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanumithra&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dhanumithra&layout=compact&theme=tokyonight&hide_border=true&v=3" alt="Top Languages" />
 </div>
