@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Dhanumithra%20T&fontSize=50&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Researcher&descAlignY=55&descAlign=50" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Dhanumithra%20T&fontSize=50&fontAlignY=35&desc=SDE%20%7C%20SQE%20%7C%20Data%20Analyst&descAlignY=55&descAlign=50" alt="header" />
 </div>
 
 <h3 align="center">Crafting Intelligent Systems & Modern Web Experiences 🚀</h3>
@@ -20,11 +20,11 @@
 
 ### 👨‍💻 About Me
 
-I am a detail-obsessed **Software Developer and AI Researcher** pursuing an **M.Sc. in Software Systems** at Coimbatore Institute of Technology (2024–2029). I specialize in bridging the gap between highly scalable backend architectures, intelligent data-driven systems, and delightful user interfaces.
+I am a detail-obsessed **Software Developer, Quality Engineer (SQE), and Data Analyst** pursuing an **M.Sc. in Software Systems** at Coimbatore Institute of Technology (2024–2029). I specialize in bridging the gap between highly scalable backend architectures, intelligent data-driven systems, and delightful user interfaces.
 
-- 🔭 **Currently working on**: **CRIMORA** (Automated Offender Profiling using Graph Mining & AI) & **ThoughtType** (Timed Articulation Platform).
-- 🌱 **Currently deep-diving into**: Advanced System Design, Generative AI, and highly performant Web Architectures.
-- 💡 **Interests**: Full-Stack Engineering, Machine Learning, Competitive Programming, and crafting aesthetic UI/UX.
+- 🔭 **Currently working on**: **CRIMORA** (Automated Offender Profiling) & **ThoughtType** (Timed Articulation Platform).
+- 🌱 **Currently deep-diving into**: Advanced System Design, Data Analytics, and highly performant Web Architectures.
+- 💡 **Interests**: Full-Stack Engineering, Data Analytics, Software Testing, Competitive Programming, and crafting aesthetic UI/UX.
 - 📫 **How to reach me**: [dhanumithra6002@gmail.com](mailto:dhanumithra6002@gmail.com)
 
 ---
@@ -45,7 +45,6 @@ I am a detail-obsessed **Software Developer and AI Researcher** pursuing an **M.
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
 
 #### Backend & Databases
